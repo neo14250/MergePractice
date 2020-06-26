@@ -11,14 +11,14 @@ table{
     width: 60%;
     margin: auto;
     font-size: 1.5em;
-    border: 3px groove blue;
+    border: 5px groove gray;
 }
 
 /*欄位畫面設定*/
 td{
-    border-bottom: 1px solid blue;
+    border-bottom: 2px solid rgb(29, 113, 161);
 }
 
 th{
-    border: 2px solid red;
+    border: 2px solid rgb(107, 30, 30);
 }

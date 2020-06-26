@@ -23,4 +23,4 @@ function SetMonthAndDay(StartMonth, StartDay){
 }
 
 //先在程式碼中直接指定社團課程第一天
-SetMonthAndDay(4,1);
+SetMonthAndDay(6,27);
