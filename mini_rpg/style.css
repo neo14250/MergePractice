@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url('https://cestmarie.com/wp-content/uploads/2019/01/Screenshot-3.png');
+    margin-top: 50px;
+}
+
+canvas{
+    border: 2px solid black;
+    background-image: url(images/grasses68.jpg);
+}
+
+#talkBox{
+    height: 20px;
+    color: brown;
+    font-size: 26px;
+    font-weight: bold;
+}
