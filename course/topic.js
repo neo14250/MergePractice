@@ -2,12 +2,12 @@
 
 /*建立一個陣列存放資料*/
 let TopicsArray = [
-    "尚未開學",
+    "開學日",
     "國定假日",
-    "環境準備",
-    "隨機性",
-    "重複性",
-    "條件判斷"
+    "上課",
+    "交作業",
+    "小考",
+    "放假"
 ];
 
 /*建立方便輸入日期的機制*/
@@ -23,4 +23,4 @@ function SetMonthAndDay(StartMonth, StartDay){
 }
 
 //先在程式碼中直接指定社團課程第一天
-SetMonthAndDay(6,27);
+SetMonthAndDay(3,10);
